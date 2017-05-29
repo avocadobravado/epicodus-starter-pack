@@ -54,4 +54,4 @@ OR...
 
 This project is licensed under the MIT License
 
-**_Rose Sponseller and PAIR** Copyright (c) 2017
+**_Rose Sponseller and PAIR_** Copyright (c) 2017
