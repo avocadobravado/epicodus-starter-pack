@@ -50,15 +50,7 @@ a {
   text-decoration: none;
 }
 
-a:hover {
-  color: inherit;
-}
-
-a:visited {
-  color: inherit;
-}
-
-a:active {
+a:hover, a:visited, a:active {
   color: inherit;
 }
 
